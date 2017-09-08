@@ -868,6 +868,11 @@ Prefab:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1517774901}
+    - target: {fileID: 224135795573809564, guid: 6b31a3816876d40aa949215685621ae4,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 2.1999998
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6b31a3816876d40aa949215685621ae4, type: 2}
   m_IsPrefabParent: 0
